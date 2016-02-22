@@ -22,6 +22,8 @@ extern class MovieClip extends DisplayObject
 
     public function getFrameLabels():Array<Dynamic>;
 
+    public function getNumChildren():Int;
+
     public function getTotalFrames():Int;
 
     public function gotoAndPlay(frame:Dynamic):Void;
