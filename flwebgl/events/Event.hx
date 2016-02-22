@@ -2,15 +2,15 @@ package flwebgl.events;
 
 extern class Event
 {
-    public static inline var ENTER_FRAME:String;
+    public static var ENTER_FRAME:String;
 
-    public static inline var ADDED:String;
+    public static var ADDED:String;
 
-    public static inline var FRAME_CONSTRUCTED:String;
+    public static var FRAME_CONSTRUCTED:String;
 
-    public static inline var EXIT_FRAME:String;
+    public static var EXIT_FRAME:String;
 
-    public static inline var REMOVED:String;
+    public static var REMOVED:String;
 
     public function new(type:String, bubbles:Bool):Void;
 
