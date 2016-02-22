@@ -32,7 +32,7 @@ extern class Player
 
     public function getStageWidth():Int;
 
-    public function init(canvas:CanvasElement, content:Dynamic, textures:Array, callback:Dynamic):Int;
+    public function init(canvas:CanvasElement, content:Dynamic, textures:Array<Dynamic>, callback:Dynamic):Int;
 
     public function play(scene:String):Bool;
 
