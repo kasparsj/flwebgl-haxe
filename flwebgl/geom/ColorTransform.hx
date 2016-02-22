@@ -47,6 +47,4 @@ extern class ColorTransform
     public function setRedMultiplier(multiplier:Float):Void;
 
     public function setRedOffset(offset:Int):Void;
-
-
 }
