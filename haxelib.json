@@ -1,0 +1,9 @@
+{
+  "name": "flwebgl",
+  "url" : "https://github.com/kasparsj/flwebgl-haxe/",
+  "license": "MIT",
+  "tags": ["flash", "webgl", "flwebgl"],
+  "description": "Externs for Flash WebGL Runtime API",
+  "version": "0.1.0",
+  "contributors": ["kasparsj"]
+}
